@@ -17,8 +17,8 @@ title: PowerShell for Admins
 email: tom@uclab.eu
 description: >- # this means to ignore newlines until "baseurl:"
   An introduction to PowerShell from a sysadmin’s perspective
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/PoSh4Admins" # the subpath of your site, e.g. /blog
+url: "https://io.tomt.it" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: torggler
 github_username:  tomtorggler
 
