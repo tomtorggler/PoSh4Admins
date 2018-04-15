@@ -13,3 +13,6 @@ theme: minima
 
 collections:
    - slides
+
+exclude:
+   - reveal.js/*.md

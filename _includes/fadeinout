@@ -1,0 +1,3 @@
+<span class="fragment fade-in">
+    <span class="fragment fade-out">{{ include.text }}</span>
+</span>
