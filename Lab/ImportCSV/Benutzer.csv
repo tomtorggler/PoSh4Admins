@@ -1,0 +1,7 @@
+﻿Id,Vorname,Nachname,Email,Abteilung,Telefon
+0001,Hannes,Torggler,Ja,1,333-123100
+0002,Jakob,Baumgartner,Ja,2,(0472)123100
+0003,Lisa,Mattivi,Ja,3,(0472)123100
+0004,Martin,Mustermann,Nein,6,06 456100
+0005,Otto,Normalo,Nein,5,166-12431100
+0007,姓名,绍尔,False,3,+1 0474 9998373
